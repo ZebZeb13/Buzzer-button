@@ -101,13 +101,14 @@ Code to get buttons' state:
      ...instructions...
  }
 ```
-
+<!--
 <img src="img/Ts_init.jpg."  width="30%"/>
 <img src="img/Ts_home.jpg."  width="30%"/>
 <img src="img/Ts_individual.jpg."  width="30%"/>
 
 <img src="img/Ts_check.jpg."  width="30%"/>
 <img src="img/Ts_team_init.jpg."  width="30%"/>
+-->
 
 > ## Hardware
 
@@ -125,6 +126,7 @@ Code to get buttons' state:
 * 10 resistors 10k ohm
 * 1 pcb board  
 
+<!--
 <img src="img/V_shield.jpg."  width="30%"/>
 <img src="img/V_shield_atm_up.jpg."  width="30%"/>
 <img src="img/V_shield_atm_screen_up.jpg"  width="30%"/>
@@ -132,3 +134,4 @@ Code to get buttons' state:
 <img src="img/V_left_side.jpg"  width="30%"/>
 <img src="img/V_up.jpg"  width="30%"/>
 <img src="img/V_back_side.jpg"  width="30%"/>
+-->
