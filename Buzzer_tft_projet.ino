@@ -50,7 +50,11 @@ TouchScreen ts = TouchScreen(XP, YP, XM, YM, 300);
 // optional
 #define LCD_RESET A4
 
+
 // Assign human-readable names to some common 16-bit color values:
+//https://ee-programming-notepad.blogspot.fr/2016/10/16-bit-color-generator-picker.html
+
+
 #define    BLACK   0x0000
 #define    BLUE    0x001F
 #define    RED     0xF800
