@@ -1,0 +1,2 @@
+CMakeLists.txt not found in E:\Desktop\ELECTRONIQUE -INFORMATIQUE\Arduino\Buzzer_tft_projet
+Environment (MinGW/Cygwin) is not selected

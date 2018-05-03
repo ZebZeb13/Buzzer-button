@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd534f0d-4421-454f-b3ec-fbd204bca459" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Buzzer_tft_projet.ino" afterPath="$PROJECT_DIR$/Buzzer_tft_projet.ino" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Buzzer_tft_projet.ino" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="839" column="0" lean-forward="true" selection-start-line="839" selection-start-column="0" selection-end-line="839" selection-end-column="0" />
+              <folding>
+                <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+                <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+                <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+                <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+                <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+                <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buzzer.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Buzzer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buzzer.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2#0" expanded="false" />
+                <element signature="e#67#185#0" expanded="false" />
+                <element signature="e#187#295#0" expanded="false" />
+                <element signature="e#297#574#0" expanded="false" />
+                <element signature="e#767#1398#0" expanded="false" />
+                <element signature="e#1400#2398#0" expanded="false" />
+                <element signature="e#2401#2596#0" expanded="false" />
+                <element signature="e#2598#2956#0" expanded="false" />
+                <element signature="e#2958#3127#0" expanded="false" />
+                <element signature="e#3251#3337#0" expanded="false" />
+                <element signature="e#3339#3428#0" expanded="false" />
+                <element signature="e#3430#3513#0" expanded="false" />
+                <element signature="e#3515#3611#0" expanded="false" />
+                <element signature="e#3613#3715#0" expanded="false" />
+                <element signature="e#3717#3990#0" expanded="false" />
+                <element signature="e#3992#4113#0" expanded="false" />
+                <element signature="e#4115#4912#0" expanded="false" />
+                <element signature="e#4914#5121#0" expanded="false" />
+                <element signature="e#5123#5208#0" expanded="false" />
+                <element signature="e#5210#5314#0" expanded="false" />
+                <element signature="e#5316#5568#0" expanded="false" />
+                <element signature="e#5570#5693#0" expanded="false" />
+                <element signature="e#5695#6497#0" expanded="false" />
+                <element signature="e#6499#6718#0" expanded="false" />
+                <element signature="e#6720#6971#0" expanded="false" />
+                <element signature="e#6973#7078#0" expanded="false" />
+                <element signature="e#7080#7197#0" expanded="false" />
+                <element signature="e#7199#7342#0" expanded="false" />
+                <element signature="e#7344#7477#0" expanded="false" />
+                <element signature="e#7479#7615#0" expanded="false" />
+                <element signature="e#7617#8187#0" expanded="false" />
+                <element signature="e#8189#8753#0" expanded="false" />
+                <element signature="e#8755#8846#0" expanded="false" />
+                <element signature="e#8848#8958#0" expanded="false" />
+                <element signature="e#8960#9209#0" expanded="false" />
+                <element signature="e#9211#9340#0" expanded="false" />
+                <element signature="e#9342#10630#0" expanded="false" />
+                <element signature="e#10632#10943#0" expanded="false" />
+                <element signature="e#10945#11166#0" expanded="false" />
+                <element signature="e#11168#11428#0" expanded="false" />
+                <element signature="e#11430#11585#0" expanded="false" />
+                <element signature="e#11587#12209#0" expanded="false" />
+                <element signature="e#12211#12848#0" expanded="false" />
+                <element signature="e#12850#13214#0" expanded="false" />
+                <element signature="e#13216#14322#0" expanded="false" />
+                <element signature="e#14324#15317#0" expanded="false" />
+                <element signature="e#14324#15468#0" expanded="false" />
+                <element signature="e#15470#15996#0" expanded="false" />
+                <element signature="e#15998#16544#0" expanded="false" />
+                <element signature="e#16668#17253#0" expanded="false" />
+                <element signature="e#17255#17434#0" expanded="false" />
+                <element signature="e#17437#17524#0" expanded="false" />
+                <element signature="e#17526#17833#0" expanded="false" />
+                <element signature="e#17957#18261#0" expanded="false" />
+                <element signature="e#18263#18677#0" expanded="false" />
+                <element signature="e#18679#19093#0" expanded="false" />
+                <element signature="e#19095#19423#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nb_b</find>
+      <find>nb_buzzer_max</find>
+      <find>DEV_INFO</find>
+      <find>Buzzer *</find>
+      <find>getBuzzerPushTeam(</find>
+      <find>getBuzzerPushTeam</find>
+      <find>ledOnAllTeamBuzzer</find>
+      <find>On</find>
+      <find>blinkAllTeamBuzzer</find>
+      <find>ledOffAllTeamBuzzer</find>
+      <find>centerXText</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Off</replace>
+      <replace>centerText</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../DorianSonnette/DorianSonnette.ino" />
+        <option value="$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_v1.1/Arduino Demo_UNO&amp;Mega2560/Example04-Touch/tftpaint/tftpaint.ino" />
+        <option value="$PROJECT_DIR$/../libraries/TFTLCD-Library-master/pin_magic.h" />
+        <option value="$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example01-Simple test/Simple test for Mega2560/_9341Mega2560/_9341Mega2560.ino" />
+        <option value="$PROJECT_DIR$/../libraries/TFTLCD-Library-master/Adafruit_TFTLCD.h" />
+        <option value="$PROJECT_DIR$/../libraries/Adafruit_TFTLCD/Adafruit_TFTLCD.h" />
+        <option value="$PROJECT_DIR$/../Arduino_TFT_Touch_Screen/tftpaint.ino" />
+        <option value="$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example02-DisplayString/DisplayString/DisplayString.ino" />
+        <option value="$PROJECT_DIR$/../Arduino_TFT_Touch_Screen/Arduino_TFT_Touch_Screen.ino" />
+        <option value="$PROJECT_DIR$/../Arduino_TFT_Touch_Screen/Adafruit_TFTLCD.h" />
+        <option value="$PROJECT_DIR$/../../../Smart_Switch_Light_V1.ino" />
+        <option value="$PROJECT_DIR$/Buzzer.h" />
+        <option value="$PROJECT_DIR$/Buzzer.cpp" />
+        <option value="$PROJECT_DIR$/../Robot_utltrason/Robot_utltrason.ino" />
+        <option value="$PROJECT_DIR$/Buzzer_tft_projet.ino" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-242" />
+    <option name="y" value="181" />
+    <option name="width" value="1694" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd534f0d-4421-454f-b3ec-fbd204bca459" name="Default" comment="" />
+      <created>1522839541873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522839541873</updated>
+      <workItem from="1522839543595" duration="17275000" />
+      <workItem from="1522963735224" duration="30768000" />
+      <workItem from="1523392758604" duration="5957000" />
+      <workItem from="1523403893851" duration="37035000" />
+      <workItem from="1523671602424" duration="11619000" />
+      <workItem from="1523816938562" duration="5951000" />
+      <workItem from="1524104727787" duration="3928000" />
+      <workItem from="1525037846645" duration="10369000" />
+      <workItem from="1525113835282" duration="3026000" />
+      <workItem from="1525336625562" duration="925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="126853000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3361612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Serial Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4641">
+          <caret line="273" column="0" lean-forward="false" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#67#185#0" expanded="false" />
+            <element signature="e#187#295#0" expanded="false" />
+            <element signature="e#297#574#0" expanded="false" />
+            <element signature="e#767#1398#0" expanded="false" />
+            <element signature="e#1400#2398#0" expanded="false" />
+            <element signature="e#2401#2596#0" expanded="false" />
+            <element signature="e#2598#2956#0" expanded="false" />
+            <element signature="e#2958#3127#0" expanded="false" />
+            <element signature="e#3251#3337#0" expanded="false" />
+            <element signature="e#3339#3428#0" expanded="false" />
+            <element signature="e#3430#3513#0" expanded="false" />
+            <element signature="e#3515#3611#0" expanded="false" />
+            <element signature="e#3613#3715#0" expanded="false" />
+            <element signature="e#3717#3990#0" expanded="false" />
+            <element signature="e#3992#4113#0" expanded="false" />
+            <element signature="e#4115#4912#0" expanded="false" />
+            <element signature="e#4914#5121#0" expanded="false" />
+            <element signature="e#5123#5208#0" expanded="false" />
+            <element signature="e#5210#5314#0" expanded="false" />
+            <element signature="e#5316#5568#0" expanded="false" />
+            <element signature="e#5570#5693#0" expanded="false" />
+            <element signature="e#5695#6497#0" expanded="false" />
+            <element signature="e#6499#6718#0" expanded="false" />
+            <element signature="e#6720#6971#0" expanded="false" />
+            <element signature="e#6973#7078#0" expanded="false" />
+            <element signature="e#7080#7197#0" expanded="false" />
+            <element signature="e#7199#7342#0" expanded="false" />
+            <element signature="e#7344#7477#0" expanded="false" />
+            <element signature="e#7479#7615#0" expanded="false" />
+            <element signature="e#7617#8187#0" expanded="false" />
+            <element signature="e#8189#8753#0" expanded="false" />
+            <element signature="e#8755#8846#0" expanded="false" />
+            <element signature="e#8848#8958#0" expanded="false" />
+            <element signature="e#8960#9209#0" expanded="false" />
+            <element signature="e#9211#9340#0" expanded="false" />
+            <element signature="e#9342#10630#0" expanded="false" />
+            <element signature="e#10632#10943#0" expanded="false" />
+            <element signature="e#10945#11166#0" expanded="false" />
+            <element signature="e#11168#11428#0" expanded="false" />
+            <element signature="e#11430#11585#0" expanded="false" />
+            <element signature="e#11587#12209#0" expanded="false" />
+            <element signature="e#12211#12848#0" expanded="false" />
+            <element signature="e#12850#13214#0" expanded="false" />
+            <element signature="e#13216#14322#0" expanded="false" />
+            <element signature="e#14324#15317#0" expanded="false" />
+            <element signature="e#14324#15468#0" expanded="false" />
+            <element signature="e#15470#15996#0" expanded="false" />
+            <element signature="e#15998#16544#0" expanded="false" />
+            <element signature="e#16668#17253#0" expanded="false" />
+            <element signature="e#17255#17434#0" expanded="false" />
+            <element signature="e#17437#17524#0" expanded="false" />
+            <element signature="e#17526#17833#0" expanded="false" />
+            <element signature="e#17957#18261#0" expanded="false" />
+            <element signature="e#18263#18677#0" expanded="false" />
+            <element signature="e#18679#19093#0" expanded="false" />
+            <element signature="e#19095#19423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4641">
+          <caret line="273" column="0" lean-forward="true" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#67#185#0" expanded="false" />
+            <element signature="e#187#295#0" expanded="false" />
+            <element signature="e#297#574#0" expanded="false" />
+            <element signature="e#767#1398#0" expanded="false" />
+            <element signature="e#1400#2398#0" expanded="false" />
+            <element signature="e#2401#2596#0" expanded="false" />
+            <element signature="e#2598#2956#0" expanded="false" />
+            <element signature="e#2958#3127#0" expanded="false" />
+            <element signature="e#3251#3337#0" expanded="false" />
+            <element signature="e#3339#3428#0" expanded="false" />
+            <element signature="e#3430#3513#0" expanded="false" />
+            <element signature="e#3515#3611#0" expanded="false" />
+            <element signature="e#3613#3715#0" expanded="false" />
+            <element signature="e#3717#3990#0" expanded="false" />
+            <element signature="e#3992#4113#0" expanded="false" />
+            <element signature="e#4115#4912#0" expanded="false" />
+            <element signature="e#4914#5121#0" expanded="false" />
+            <element signature="e#5123#5208#0" expanded="false" />
+            <element signature="e#5210#5314#0" expanded="false" />
+            <element signature="e#5316#5568#0" expanded="false" />
+            <element signature="e#5570#5693#0" expanded="false" />
+            <element signature="e#5695#6497#0" expanded="false" />
+            <element signature="e#6499#6718#0" expanded="false" />
+            <element signature="e#6720#6971#0" expanded="false" />
+            <element signature="e#6973#7078#0" expanded="false" />
+            <element signature="e#7080#7197#0" expanded="false" />
+            <element signature="e#7199#7342#0" expanded="false" />
+            <element signature="e#7344#7477#0" expanded="false" />
+            <element signature="e#7479#7615#0" expanded="false" />
+            <element signature="e#7617#8187#0" expanded="false" />
+            <element signature="e#8189#8753#0" expanded="false" />
+            <element signature="e#8755#8846#0" expanded="false" />
+            <element signature="e#8848#8958#0" expanded="false" />
+            <element signature="e#8960#9209#0" expanded="false" />
+            <element signature="e#9211#9340#0" expanded="false" />
+            <element signature="e#9342#10630#0" expanded="false" />
+            <element signature="e#10632#10943#0" expanded="false" />
+            <element signature="e#10945#11166#0" expanded="false" />
+            <element signature="e#11168#11428#0" expanded="false" />
+            <element signature="e#11430#11585#0" expanded="false" />
+            <element signature="e#11587#12209#0" expanded="false" />
+            <element signature="e#12211#12848#0" expanded="false" />
+            <element signature="e#12850#13214#0" expanded="false" />
+            <element signature="e#13216#14322#0" expanded="false" />
+            <element signature="e#14324#15317#0" expanded="false" />
+            <element signature="e#14324#15468#0" expanded="false" />
+            <element signature="e#15470#15996#0" expanded="false" />
+            <element signature="e#15998#16544#0" expanded="false" />
+            <element signature="e#16668#17253#0" expanded="false" />
+            <element signature="e#17255#17434#0" expanded="false" />
+            <element signature="e#17437#17524#0" expanded="false" />
+            <element signature="e#17526#17833#0" expanded="false" />
+            <element signature="e#17957#18261#0" expanded="false" />
+            <element signature="e#18263#18677#0" expanded="false" />
+            <element signature="e#18679#19093#0" expanded="false" />
+            <element signature="e#19095#19423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Robot_utltrason/Robot_utltrason.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5032">
+          <caret line="296" column="45" lean-forward="false" selection-start-line="296" selection-start-column="45" selection-end-line="296" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#67#185#0" expanded="false" />
+            <element signature="e#187#295#0" expanded="false" />
+            <element signature="e#297#574#0" expanded="false" />
+            <element signature="e#767#1398#0" expanded="false" />
+            <element signature="e#1400#2398#0" expanded="false" />
+            <element signature="e#2401#2596#0" expanded="false" />
+            <element signature="e#2598#2956#0" expanded="false" />
+            <element signature="e#2958#3127#0" expanded="false" />
+            <element signature="e#3251#3337#0" expanded="false" />
+            <element signature="e#3339#3428#0" expanded="false" />
+            <element signature="e#3430#3513#0" expanded="false" />
+            <element signature="e#3515#3611#0" expanded="false" />
+            <element signature="e#3613#3715#0" expanded="false" />
+            <element signature="e#3717#3990#0" expanded="false" />
+            <element signature="e#3992#4113#0" expanded="false" />
+            <element signature="e#4115#4912#0" expanded="false" />
+            <element signature="e#4914#5121#0" expanded="false" />
+            <element signature="e#5123#5208#0" expanded="false" />
+            <element signature="e#5210#5314#0" expanded="false" />
+            <element signature="e#5316#5568#0" expanded="false" />
+            <element signature="e#5570#5693#0" expanded="false" />
+            <element signature="e#5695#6497#0" expanded="false" />
+            <element signature="e#6499#6718#0" expanded="false" />
+            <element signature="e#6720#6971#0" expanded="false" />
+            <element signature="e#6973#7078#0" expanded="false" />
+            <element signature="e#7080#7197#0" expanded="false" />
+            <element signature="e#7199#7342#0" expanded="false" />
+            <element signature="e#7344#7477#0" expanded="false" />
+            <element signature="e#7479#7615#0" expanded="false" />
+            <element signature="e#7617#8187#0" expanded="false" />
+            <element signature="e#8189#8753#0" expanded="false" />
+            <element signature="e#8755#8846#0" expanded="false" />
+            <element signature="e#8848#8958#0" expanded="false" />
+            <element signature="e#8960#9209#0" expanded="false" />
+            <element signature="e#9211#9340#0" expanded="false" />
+            <element signature="e#9342#10630#0" expanded="false" />
+            <element signature="e#10632#10943#0" expanded="false" />
+            <element signature="e#10945#11166#0" expanded="false" />
+            <element signature="e#11168#11428#0" expanded="false" />
+            <element signature="e#11430#11585#0" expanded="false" />
+            <element signature="e#11587#12209#0" expanded="false" />
+            <element signature="e#12211#12848#0" expanded="false" />
+            <element signature="e#12850#13214#0" expanded="false" />
+            <element signature="e#13216#14322#0" expanded="false" />
+            <element signature="e#14324#15317#0" expanded="false" />
+            <element signature="e#14324#15468#0" expanded="false" />
+            <element signature="e#15470#15996#0" expanded="false" />
+            <element signature="e#15998#16544#0" expanded="false" />
+            <element signature="e#16668#17253#0" expanded="false" />
+            <element signature="e#17255#17434#0" expanded="false" />
+            <element signature="e#17437#17524#0" expanded="false" />
+            <element signature="e#17526#17833#0" expanded="false" />
+            <element signature="e#17957#18261#0" expanded="false" />
+            <element signature="e#18263#18677#0" expanded="false" />
+            <element signature="e#18679#19093#0" expanded="false" />
+            <element signature="e#19095#19423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5185">
+          <caret line="305" column="16" lean-forward="false" selection-start-line="305" selection-start-column="16" selection-end-line="305" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#67#185#0" expanded="false" />
+            <element signature="e#187#295#0" expanded="false" />
+            <element signature="e#297#574#0" expanded="false" />
+            <element signature="e#767#1398#0" expanded="false" />
+            <element signature="e#1400#2398#0" expanded="false" />
+            <element signature="e#2401#2596#0" expanded="false" />
+            <element signature="e#2598#2956#0" expanded="false" />
+            <element signature="e#2958#3127#0" expanded="false" />
+            <element signature="e#3251#3337#0" expanded="false" />
+            <element signature="e#3339#3428#0" expanded="false" />
+            <element signature="e#3430#3513#0" expanded="false" />
+            <element signature="e#3515#3611#0" expanded="false" />
+            <element signature="e#3613#3715#0" expanded="false" />
+            <element signature="e#3717#3990#0" expanded="false" />
+            <element signature="e#3992#4113#0" expanded="false" />
+            <element signature="e#4115#4912#0" expanded="false" />
+            <element signature="e#4914#5121#0" expanded="false" />
+            <element signature="e#5123#5208#0" expanded="false" />
+            <element signature="e#5210#5314#0" expanded="false" />
+            <element signature="e#5316#5568#0" expanded="false" />
+            <element signature="e#5570#5693#0" expanded="false" />
+            <element signature="e#5695#6497#0" expanded="false" />
+            <element signature="e#6499#6718#0" expanded="false" />
+            <element signature="e#6720#6971#0" expanded="false" />
+            <element signature="e#6973#7078#0" expanded="false" />
+            <element signature="e#7080#7197#0" expanded="false" />
+            <element signature="e#7199#7342#0" expanded="false" />
+            <element signature="e#7344#7477#0" expanded="false" />
+            <element signature="e#7479#7615#0" expanded="false" />
+            <element signature="e#7617#8187#0" expanded="false" />
+            <element signature="e#8189#8753#0" expanded="false" />
+            <element signature="e#8755#8846#0" expanded="false" />
+            <element signature="e#8848#8958#0" expanded="false" />
+            <element signature="e#8960#9209#0" expanded="false" />
+            <element signature="e#9211#9340#0" expanded="false" />
+            <element signature="e#9342#10630#0" expanded="false" />
+            <element signature="e#10632#10943#0" expanded="false" />
+            <element signature="e#10945#11166#0" expanded="false" />
+            <element signature="e#11168#11428#0" expanded="false" />
+            <element signature="e#11430#11585#0" expanded="false" />
+            <element signature="e#11587#12209#0" expanded="false" />
+            <element signature="e#12211#12848#0" expanded="false" />
+            <element signature="e#12850#13214#0" expanded="false" />
+            <element signature="e#13216#14322#0" expanded="false" />
+            <element signature="e#14324#15317#0" expanded="false" />
+            <element signature="e#14324#15468#0" expanded="false" />
+            <element signature="e#15470#15996#0" expanded="false" />
+            <element signature="e#15998#16544#0" expanded="false" />
+            <element signature="e#16668#17253#0" expanded="false" />
+            <element signature="e#17255#17434#0" expanded="false" />
+            <element signature="e#17437#17524#0" expanded="false" />
+            <element signature="e#17526#17833#0" expanded="false" />
+            <element signature="e#17957#18261#0" expanded="false" />
+            <element signature="e#18263#18677#0" expanded="false" />
+            <element signature="e#18679#19093#0" expanded="false" />
+            <element signature="e#19095#19423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="2" lean-forward="false" selection-start-line="102" selection-start-column="2" selection-end-line="102" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#67#185#0" expanded="false" />
+            <element signature="e#187#295#0" expanded="false" />
+            <element signature="e#297#574#0" expanded="false" />
+            <element signature="e#767#1398#0" expanded="false" />
+            <element signature="e#1400#2398#0" expanded="false" />
+            <element signature="e#2401#2596#0" expanded="false" />
+            <element signature="e#2598#2956#0" expanded="false" />
+            <element signature="e#2958#3127#0" expanded="false" />
+            <element signature="e#3251#3337#0" expanded="false" />
+            <element signature="e#3339#3428#0" expanded="false" />
+            <element signature="e#3430#3513#0" expanded="false" />
+            <element signature="e#3515#3611#0" expanded="false" />
+            <element signature="e#3613#3715#0" expanded="false" />
+            <element signature="e#3717#3990#0" expanded="false" />
+            <element signature="e#3992#4113#0" expanded="false" />
+            <element signature="e#4115#4912#0" expanded="false" />
+            <element signature="e#4914#5121#0" expanded="false" />
+            <element signature="e#5123#5208#0" expanded="false" />
+            <element signature="e#5210#5314#0" expanded="false" />
+            <element signature="e#5316#5568#0" expanded="false" />
+            <element signature="e#5570#5693#0" expanded="false" />
+            <element signature="e#5695#6497#0" expanded="false" />
+            <element signature="e#6499#6718#0" expanded="false" />
+            <element signature="e#6720#6971#0" expanded="false" />
+            <element signature="e#6973#7078#0" expanded="false" />
+            <element signature="e#7080#7197#0" expanded="false" />
+            <element signature="e#7199#7342#0" expanded="false" />
+            <element signature="e#7344#7477#0" expanded="false" />
+            <element signature="e#7479#7615#0" expanded="false" />
+            <element signature="e#7617#8187#0" expanded="false" />
+            <element signature="e#8189#8753#0" expanded="false" />
+            <element signature="e#8755#8846#0" expanded="false" />
+            <element signature="e#8848#8958#0" expanded="false" />
+            <element signature="e#8960#9209#0" expanded="false" />
+            <element signature="e#9211#9340#0" expanded="false" />
+            <element signature="e#9342#10630#0" expanded="false" />
+            <element signature="e#10632#10943#0" expanded="false" />
+            <element signature="e#10945#11166#0" expanded="false" />
+            <element signature="e#11168#11428#0" expanded="false" />
+            <element signature="e#11430#11585#0" expanded="false" />
+            <element signature="e#11587#12209#0" expanded="false" />
+            <element signature="e#12211#12848#0" expanded="false" />
+            <element signature="e#12850#13214#0" expanded="false" />
+            <element signature="e#13216#14322#0" expanded="false" />
+            <element signature="e#14324#15317#0" expanded="false" />
+            <element signature="e#14324#15468#0" expanded="false" />
+            <element signature="e#15470#15996#0" expanded="false" />
+            <element signature="e#15998#16544#0" expanded="false" />
+            <element signature="e#16668#17253#0" expanded="false" />
+            <element signature="e#17255#17434#0" expanded="false" />
+            <element signature="e#17437#17524#0" expanded="false" />
+            <element signature="e#17526#17833#0" expanded="false" />
+            <element signature="e#17957#18261#0" expanded="false" />
+            <element signature="e#18263#18677#0" expanded="false" />
+            <element signature="e#18679#19093#0" expanded="false" />
+            <element signature="e#19095#19423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example02-DisplayString/DisplayString/DisplayString.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="116" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7667">
+          <caret line="451" column="88" lean-forward="false" selection-start-line="451" selection-start-column="88" selection-end-line="451" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3383">
+          <caret line="199" column="0" lean-forward="true" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EspWebFramework/EspWebFramework/EspWebFramework.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EspWebFramework/EspWebFramework/Tools.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DorianSonnette/DorianSonnette.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="159" column="43" lean-forward="true" selection-start-line="159" selection-start-column="43" selection-end-line="159" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_v1.1/Arduino Demo_UNO&amp;Mega2560/Example01-Simple test/Simple test for UNO/_9341uno/_9341uno.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_v1.1/Arduino Demo_UNO&amp;Mega2560/Example02-DisplayString/DisplayString/DisplayString.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_v1.1/Arduino Demo_UNO&amp;Mega2560/Install libraries/Adafruit_TFTLCD/pin_magic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_v1.1/Arduino Demo_UNO&amp;Mega2560/Example04-Touch/tftpaint/tftpaint.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="94" column="2" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="125" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../libraries/TFTLCD-Library-master/pin_magic.h" />
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Install libraries/TouchScreen/TouchScreen.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example01-Simple test/Simple test for Mega2560/_9341Mega2560/_9341Mega2560.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Install libraries/Adafruit_TFTLCD/Adafruit_TFTLCD.h" />
+    <entry file="file://$PROJECT_DIR$/../SKU340736 info/3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example01-Simple test/Simple test for Mega2560/_9341Mega2560/_9341Mega2560.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SKU340736 info/3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example07-DisplayChinese/DisplayChinese/DisplayChinese.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-566">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SKU340736 info/3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example04-Touch/tftpaint/tftpaint.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="136" column="54" lean-forward="true" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../libraries/Adafruit_TFTLCD/Adafruit_TFTLCD.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../libraries/TFTLCD-Library-master/Adafruit_TFTLCD.h" />
+    <entry file="file://$PROJECT_DIR$/../Arduino_TFT_Touch_Screen/tftpaint.ino" />
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example04-Touch/tftpaint/tftpaint.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Install libraries/Adafruit_GFX/Adafruit_GFX.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Arduino_TFT_Touch_Screen/Arduino_TFT_Touch_Screen.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="59" column="16" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Arduino_TFT_Touch_Screen/Adafruit_TFTLCD.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3.5inch_Arduino_ILI9481_Touch_V2.0/3.5inch_Arduino_ILI9481_V2.0/Arduino Demo_UNO&amp;Mega2560/Example02-DisplayString/DisplayString/DisplayString.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Smart_Switch_Light/Smart_Switch_Light_V1/Smart_Switch_Light_V1.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Smart_Switch_Light_V1.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WifiSmartLightV1/WifiSmartLightV1.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Robot_utltrason/Robot_utltrason.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="119" column="58" lean-forward="false" selection-start-line="119" selection-start-column="58" selection-end-line="119" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Buzzer_button/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1377">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+            <element signature="e#67#185#0" expanded="false" />
+            <element signature="e#187#295#0" expanded="false" />
+            <element signature="e#297#574#0" expanded="false" />
+            <element signature="e#767#1398#0" expanded="false" />
+            <element signature="e#1400#2398#0" expanded="false" />
+            <element signature="e#2401#2596#0" expanded="false" />
+            <element signature="e#2598#2956#0" expanded="false" />
+            <element signature="e#2958#3127#0" expanded="false" />
+            <element signature="e#3251#3337#0" expanded="false" />
+            <element signature="e#3339#3428#0" expanded="false" />
+            <element signature="e#3430#3513#0" expanded="false" />
+            <element signature="e#3515#3611#0" expanded="false" />
+            <element signature="e#3613#3715#0" expanded="false" />
+            <element signature="e#3717#3990#0" expanded="false" />
+            <element signature="e#3992#4113#0" expanded="false" />
+            <element signature="e#4115#4912#0" expanded="false" />
+            <element signature="e#4914#5121#0" expanded="false" />
+            <element signature="e#5123#5208#0" expanded="false" />
+            <element signature="e#5210#5314#0" expanded="false" />
+            <element signature="e#5316#5568#0" expanded="false" />
+            <element signature="e#5570#5693#0" expanded="false" />
+            <element signature="e#5695#6497#0" expanded="false" />
+            <element signature="e#6499#6718#0" expanded="false" />
+            <element signature="e#6720#6971#0" expanded="false" />
+            <element signature="e#6973#7078#0" expanded="false" />
+            <element signature="e#7080#7197#0" expanded="false" />
+            <element signature="e#7199#7342#0" expanded="false" />
+            <element signature="e#7344#7477#0" expanded="false" />
+            <element signature="e#7479#7615#0" expanded="false" />
+            <element signature="e#7617#8187#0" expanded="false" />
+            <element signature="e#8189#8753#0" expanded="false" />
+            <element signature="e#8755#8846#0" expanded="false" />
+            <element signature="e#8848#8958#0" expanded="false" />
+            <element signature="e#8960#9209#0" expanded="false" />
+            <element signature="e#9211#9340#0" expanded="false" />
+            <element signature="e#9342#10630#0" expanded="false" />
+            <element signature="e#10632#10943#0" expanded="false" />
+            <element signature="e#10945#11166#0" expanded="false" />
+            <element signature="e#11168#11428#0" expanded="false" />
+            <element signature="e#11430#11585#0" expanded="false" />
+            <element signature="e#11587#12209#0" expanded="false" />
+            <element signature="e#12211#12848#0" expanded="false" />
+            <element signature="e#12850#13214#0" expanded="false" />
+            <element signature="e#13216#14322#0" expanded="false" />
+            <element signature="e#14324#15317#0" expanded="false" />
+            <element signature="e#14324#15468#0" expanded="false" />
+            <element signature="e#15470#15996#0" expanded="false" />
+            <element signature="e#15998#16544#0" expanded="false" />
+            <element signature="e#16668#17253#0" expanded="false" />
+            <element signature="e#17255#17434#0" expanded="false" />
+            <element signature="e#17437#17524#0" expanded="false" />
+            <element signature="e#17526#17833#0" expanded="false" />
+            <element signature="e#17957#18261#0" expanded="false" />
+            <element signature="e#18263#18677#0" expanded="false" />
+            <element signature="e#18679#19093#0" expanded="false" />
+            <element signature="e#19095#19423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buzzer_tft_projet.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="839" column="0" lean-forward="true" selection-start-line="839" selection-start-column="0" selection-end-line="839" selection-end-column="0" />
+          <folding>
+            <marker date="1525336873779" expanded="true" signature="1652:1748" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="1756:1794" ph="{...}" />
+            <marker date="1525336873779" expanded="true" signature="2035:2190" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4680:4723" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="4764:4789" ph="{...}" />
+            <marker date="1525336873779" expanded="false" signature="5330:5767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
