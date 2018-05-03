@@ -1,6 +1,6 @@
-# Buzzer button#
+# Buzzer button
 
-## Hardware
+> ## Hardware
 
 * 10 push button + leds
 `link :` https://www.amazon.fr/gp/product/B01MSNXLN0/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1 (36.36€)
@@ -17,8 +17,33 @@
 * 1 pcb board  
 
 
-## Library
+> ## Library
 * Adafruit_GFX.h
 * Adafruit_TFTLCD.h
 * TouchScreen.h
+
+> ## Structure
+```
+typedef struct Buzzer {
+    int pin_button;
+    int pin_led;
+    int number;
+    int team;
+    int score;
+    bool used;
+} Buzzer;
+```
+```
+typedef struct Button {
+    int x;
+    int y;
+    int x_size;
+    int y_size;
+    String string;
+    int size_string;
+    uint16_t color_string;
+    uint16_t color_background;
+} Button;
+```
+
 
