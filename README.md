@@ -1,5 +1,5 @@
 # Buzzer button
-
+This project is based on a arduino mega.
 This project has a maximum of 10 buzzers, but you can play with 1,2...10 buzzers plug anywhere.
 <br>
 The buzzer library can support more buzzers.
